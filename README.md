@@ -1,27 +1,44 @@
-# Project Name
+# Technical Documentation Page
 
-> One paragraph statement about the project.
+> A fcc certification project which give details about HTML and CSS.
 
-![screenshot](./app_screenshot.png)
+![14-Technical-page](image.png)
 
 Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML5,
+  - `div`
+  - `article`
+  - `section`
+  - `ol`
+  - `ul`
+- CSS
+  - `margin`
+  - `padding`
+  - `position`
+  - `font-size`
+  - `z-index`
+- LINTERS
+  - [Prettier](https://prettier.io/),
+  - [Stylelint](https://stylelint.io/),
+- Github Action
 
 ## Live Demo
 
 [Live Demo Link](https://livedemo.com)
+
+## Deployment Link
+
+[Deployment-link](https://vercel.com/onikosi-omotayo-eniolas-projects/14-fcc-technical-documentation-page)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/bolah2009/html-css-template.git
+git clone https://github.com/OMOTAYO05/html-css-template.git
 
 ```
 
